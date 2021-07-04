@@ -1,0 +1,33 @@
+HackToGainAccess Task
+Frontend and backend development 
+FRONTEND DEVELOPMENT:
+Also known as client-side development. This usually produces HTML, CSS, JavaScript for a website or a Web Application so that a user can see and interact with them directly. The graphical interface is converted into HTML, CSS and JavaScript. There are several tools used to develop this. HTML(Hyper Text Markup Language), Cascading Style Sheets(CSS) and JavaScript, WebAssembly are popular languages used to develop and code the front end.
+HTML:
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. HTML is the language in which most websites are written. HTML is used to create pages and make them functional. "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
+CSS:
+CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed. Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
+JavaScript:
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. and for all of these features, JavaScript is responsible.
+Some Frameworks and libraries used in FrontEnd
+React.js:
+One of the simplest frameworks to learn – React – was developed at Facebook to fix code maintainability issues due to the constant addition of features in the app. An open-source framework now, React stands out because of its virtual Document Object Model (DOM), which offers its exceptional functionality. An ideal framework for those who anticipate high traffic and need a stable platform to handle it. 
+Angular:
+Angular is a framework that is based on TypeScript. Officially launched in 2016, Angular was developed by Google to bridge the gap between the increasing demands of technology and conventional concepts that showed results. Unlike React, Angular is unique with its two-way data binding feature. It means there is a real-time synchronization between the model and the view, where any change in the model reflects instantly on the view and vice versa.
+Vue:
+One of the most popular front-end frameworks nowadays, Vue is a simple and straightforward framework. It is good at removing the complexities that Angular developers face. It is smaller in size and offers two major advantages – visual DOM and component-based. It is also a 2-way binding. Vue is versatile, and it helps you with multiple tasks. From building web applications and mobile apps to progressive web applications, it can handle both simple and dynamic processes with ease.
+Other widely used libraries include JQuery, Emberjs, Backbonejs, Semantic-UI, Foundation, Svelte.
+
+BACKEND DEVELOPMENT:
+Back end Development refers to the server side of development where you are primarily focused on how the site works. Making updates and changes in addition to monitoring functionality of the site will be your primary responsibility. This type of web development usually consists of three parts: a server, an application, and a database. Code written by back end developers is what communicates the database information to the browser. Anything you can’t see easily with the eye such as databases and servers is the work of a back end developer.  Back end developer positions are often called programmers or web developers.
+BACK END PROGRAMMING LANGUAGES:
+Many back end developers know front end languages such as HTML and CSS but need to use languages such as Java, PHP, Ruby on Rails, Python, and .Net to get the back end job done.  Back end developers are most focused on a site’s responsiveness and speed. These languages are used to create dynamic sites which are different from static sites in that these types of websites store database information. Content on the site is constantly changing and updating. Examples of dynamic sites include Facebook, Twitter, and Google Maps.
+Java:
+JAVA was developed by James Gosling at Sun Microsystems Inc in the year 1991, later acquired by Oracle Corporation. It is a simple programming language. Java makes writing, compiling, and debugging programming easy. It helps to create reusable code and modular programs. Java is a class-based, object-oriented programming language and is designed to have as few implementation dependencies as possible. A general-purpose programming language made for developers to write once run anywhere that is compiled Java code can run on all platforms that support Java. Java applications are compiled to byte code that can run on any Java Virtual Machine. The syntax of Java is similar to c/c++.
+Python:
+Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code. Python is a programming language that lets you work quickly and integrate systems more efficiently. There are two major Python versions: Python 2 and Python 3. Both are quite different.
+C:
+C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development. Many later languages have borrowed syntax/features directly or indirectly from the C language. Like syntax of Java, PHP, JavaScript, and many other languages are mainly based on the C language. C++ is nearly a superset of C language (Few programs may compile in C, but not in C++). 
+PHP:
+The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension “.php”. 
+
+
